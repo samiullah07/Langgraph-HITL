@@ -1,0 +1,7 @@
+.venv
+__pycache__/
+.python-version
+pyproject.toml
+uv.lock
+config.bat
+node_modules
